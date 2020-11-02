@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Mu first post
+title: My first post
 description: The first post on the Eleventy and Netfify CMS blog
 date: 2020-11-02
 featuredImage: /images/uploads/image1.jpg
